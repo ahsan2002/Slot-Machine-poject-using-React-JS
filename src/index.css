@@ -1,0 +1,43 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.heading_style{
+  padding: 30px 0;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 13px;
+  letter-spacing: 2px;
+  font-weight: 500;
+  background-color:wheat;
+  font-size: 1.5rem;
+  margin-bottom: 30px;
+}
+
+.slotinner{
+  text-align: center;
+  background-color: #fff;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  padding: 16px 24px 24px 24px;
+}
+
+.mydiv{
+  border: 2px solid black;
+  margin-left: 320px;
+  width: 50%;
+}
+
+@media (max-width:768px) {
+  .mydiv{
+      /* float:none; */
+      margin:0;
+      width:100%;
+  }
+}
+
+hr{
+  border: 1px solid rgb(6, 152, 152);
+}
