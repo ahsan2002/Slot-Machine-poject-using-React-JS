@@ -10,7 +10,7 @@ const App = () => {
         <hr/><hr />
         <SlotMach x="💑" y="😎" z="👩‍❤️‍👩"></SlotMach>
         <hr/><hr />
-        <SlotMach x="☹" y="😎" z="😑"></SlotMach>
+        <SlotMach x="😏" y="😎" z="😑"></SlotMach>
     </div>
     </>
 }
